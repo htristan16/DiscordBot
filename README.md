@@ -30,7 +30,7 @@ This project is [hosted on GitHub](https://github.com/ysdragon/StreamBot).
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ysdragon/StreamBot
+git clone https://github.com/htristan16/DiscordBot.git
 ```
 
 2. Install dependencies:
